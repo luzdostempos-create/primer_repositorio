@@ -84,7 +84,7 @@ gits status é um comando utilizado para verioficar o estado atual do repositori
 	- 7.3. Resolução de conflitos
 
 
-# Git config 
+# Git config ~ Lucas
 
 - Descrição
   - é um comando para ler, definir e alterar configuração no git
@@ -100,9 +100,30 @@ gits status é um comando utilizado para verioficar o estado atual do repositori
     - git config --global user.email "seu-email@exemplo.com"
   
   - Listar todas as configurações ativas:
-    - git config --list    
+    - git config --list
+   
+# git commit ~ julio 
+git commit é um comando utilizado no git. 
+O git commit salva alterações feitas pelo git add no histórico do projeto.
 
-# Bitbucket 
+- principais caracteristicas
+   - Registra as alterações no histórico do projeto.
+   - Cria um ponto de salvamento/versionamento.
+   - Normalmente é usado após o git add.
+
+# git log ~ eyck
+git log é um comando que mostra a lista cronologica do historico de commits
+
+# GitHub ~ turolla
+GitHub é a maior plataforma online para armazenar, compartilhar e gerenciar projetos de programação, facilitando o trabalho e organização da equipe   
+
+- principais caracteristicas
+  -armazenamento de nuvem
+  -controle de projeto na nuvem
+  -controle de versões anteriores e atuais com o git
+  -trabalho organizado e colaborativo   
+
+# Bitbucket ~ Lucas
 
 - Descrição
  - é uma plataforma de hospedagem de codigo-fonte baseado no git
@@ -116,3 +137,13 @@ gits status é um comando utilizado para verioficar o estado atual do repositori
   - Automação de CI/CD (Bitbucket Pipelines
   - Rastreamento de Problemas (Issues)
   - Integração com ecossistema Atlassian
+ 
+  - # Azure ~ turolla
+
+Azure é uma ferramenta do **Azure DevOps** que permite usuarios armazenarem e gerenciar versionar um codigo-fonte de projetos de software, permitindo que equipes trabalhem em conjunto
+
+- principais caracteristicas
+  - oferece suporte ao git (permite trabalhar offline e sincronizar nuvem)
+  - seus repositorios da nuvem sao gratuitos
+  - permite uma equipe com diversos membros trabalhar na revisão de um codigo
+  - Oferece suporte ao Team Foundation Version Control (TFVC).
