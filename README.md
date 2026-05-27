@@ -23,7 +23,6 @@ Eyck, Julio, Lucas, Pedro
 	- 7.3. Resolução de conflitos
 
 
-
 # Git config 
 
 - Descrição
