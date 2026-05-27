@@ -28,7 +28,10 @@ Eyck, Julio, Lucas, Pedro
 
 - Descrição
   - é um comando para ler, definir e alterar configuração no git
-  - informanções e preferencias do usuário
+  - informanções e preferencias do usuário em 3 niveis diferentes
+     - Local (--local): Afeta apenas o repositório atual. (Armazenado em .git/config)
+     - Global (--global): Afeta todos os repositórios do seu usuário no sistema. (Armazenado em ~/.gitconfig)
+     - Sistema (--system): Afeta todos os usuários e projetos do sistema operacional. (Armazenado em /etc/gitconfig)
 
 # Bitbucket 
 
