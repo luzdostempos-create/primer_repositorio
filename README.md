@@ -3,6 +3,12 @@
 
 Eyck, Julio, Lucas, Pedro
 
+# config 
+
+- Descrição
+  - é um comando para ler, definir e alterar configuração no git
+  - informanções e preferencias do usuário
+
 # Bitbucket 
 
 - Descrição
