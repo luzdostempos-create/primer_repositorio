@@ -32,6 +32,13 @@ Eyck, Julio, Lucas, Pedro
      - Local (--local): Afeta apenas o repositório atual. (Armazenado em .git/config)
      - Global (--global): Afeta todos os repositórios do seu usuário no sistema. (Armazenado em ~/.gitconfig)
      - Sistema (--system): Afeta todos os usuários e projetos do sistema operacional. (Armazenado em /etc/gitconfig)
+- Exemplos
+  -Configurar o seu nome:
+    -git config --global user.name "Seu Nome"
+  -Configurar o seu e-mail:
+    -git config --global user.email "seu-email@exemplo.com"
+  -Listar todas as configurações ativas:
+    -git config --list    
 
 # Bitbucket 
 
