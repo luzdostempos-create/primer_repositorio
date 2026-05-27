@@ -24,7 +24,7 @@ Eyck, Julio, Lucas, Pedro
 
 
 
-# config 
+# Git config 
 
 - Descrição
   - é um comando para ler, definir e alterar configuração no git
