@@ -38,3 +38,9 @@ Eyck, Julio, Lucas, Pedro
  - oferece um ambiente centralizado para equipes de desenvolvimento
  - armazena, revisa e gerencia projetos de software
  - oferece recursos essenciais para o ciclo do desenvolvimentos de software
+- funções
+  - Gerenciamento de Código
+  - Revisão de Código (Pull Requests)
+  - Automação de CI/CD (Bitbucket Pipelines
+  - Rastreamento de Problemas (Issues)
+  - Integração com ecossistema Atlassian
