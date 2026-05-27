@@ -35,8 +35,10 @@ Eyck, Julio, Lucas, Pedro
 - Exemplos
   -Configurar o seu nome:
     -git config --global user.name "Seu Nome"
+  
   -Configurar o seu e-mail:
     -git config --global user.email "seu-email@exemplo.com"
+  
   -Listar todas as configurações ativas:
     -git config --list    
 
